@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Kitab oxumaq
 gezmek
+=======
+Go to the text 
+
+
+>>>>>>> 843cee673c7b53c6a6eaf983247bf85f71acc26c
